@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++,java
 - 💞️ I’m looking to collaborate on some project
-- 📫 How to reach me through my mail
+- 📫 reach me through my mail
 
 <!---
 Nithyashree03-code/Nithyashree03-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
