@@ -9,7 +9,7 @@
 
 ### Leetcode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Nithya_shree_03?theme=dark&font=Cookie)
+![LeetCode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/Nithya_shree_03?theme=forest&font=Cutive&ext=heatmap))
 
 
 
