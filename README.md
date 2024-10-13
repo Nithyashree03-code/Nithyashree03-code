@@ -11,6 +11,8 @@
 
 (![LeetCode Stats](https://leetcard.jacoblin.cool/Nithya_shree_03?theme=dark&font=Cutive&ext=heatmap))
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nithyashree03-code&bg_color=030222&color=ecf005&line=165af8&point=e1dfdb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
